@@ -3,3 +3,4 @@ def fibonacci(n):
 	return fibonacci(n-1) + fibonacci(n-2)
 
 print(fibonacci(6))
+print("This script is based on recursion")
